@@ -6,7 +6,7 @@ For an explanation of the problem, here is a complete article about it: https://
 
 My java program uses 2 classes (main + Position), that being said I could use more or even less its just personal preference at the end. In the creation of this program I have used a 3rd party developed algorythm to go through a matrix and number each cell, from inside out, in a ascending numerical trend. Like this:
    
-   .. .. .. .. .. </br>
+</t> .. .. .. .. .. </br>
 .. 17 16 15 14 13 .. </br>
 .. 18  5  4  3 12 .. </br>
 .. 19  6  1  2 11 .. </br>
